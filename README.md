@@ -18,19 +18,21 @@ Este é um programa simples desenvolvido com o framework flask e para a sua util
 terminal.
 
 para windows:
-<s>python3 -m venv "nome da venv"</s>
+python3 -m venv "nome da venv"
+<br>
 para linux:
-<s>py -m venv "nome da venv"</s>
+py -m venv "nome da venv"
 
 após isso é necessário que o usuário ative o ambiente virtual utilizando no terminal:
 
 para windows:
-<s>/venv/Scripts/activate</s>
+/venv/Scripts/activate
+<br>
 para linux:
-<s>/venv/bin/activate</s>
+/venv/bin/activate
 
-e para concluir a instalação utilize <s>pip install flask</s> e após a instalação do
-framework digite <s>flask run</s> para executar o projeto
+e para concluir a instalação utilize "pip install flask" e após a instalação do
+framework digite "flask run" para executar o projeto
 
 
 ## OBS:
