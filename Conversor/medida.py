@@ -7,7 +7,7 @@ class Medida:
         self.__centimetros = centimetros
         self.__metros = metros
 
-#convertendo milhas
+#convertendo Milhas
 
     def get_milhas_in(self,milhas):
         self.__polegada =63360
@@ -25,7 +25,7 @@ class Medida:
         self.__metros =1609.34
         return self.__metros * milhas
 
-#convertendo polegadas
+#convertendo Polegadas
 
     def get_polegadas_mi(self,polegada):
         self.__milhas = 0.0000157828
@@ -43,7 +43,7 @@ class Medida:
         self.__metros = 0.0254
         return self.__metros * polegada
 
-#convertendo pés
+#convertendo Pés
 
     def get_pe_mi(self,pe):
         self.__milhas = 0.00018939
@@ -61,7 +61,7 @@ class Medida:
         self.__metros = 0.3048
         return self.__metros * pe
 
-#convertendo quilometros
+#convertendo Quilometros
 
     def get_quilometros_mi(self,quilometros):
         self.__milhas = 0.621371
@@ -97,7 +97,7 @@ class Medida:
         self.__metros = 0.01
         return self.__metros * centimetros
 
-#convertendo metros
+#convertendo Metros
 
     def get_metros_mi(self,metros):
         self.__milhas = 0.00062137
