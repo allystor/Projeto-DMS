@@ -1,5 +1,5 @@
 # Projeto-DMS
-Projeto da empresa DMS logistics para processo seletivo
+Projeto da empresa DMS logistics.
 
 
 ## O conversor de medidas.
